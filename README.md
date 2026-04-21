@@ -1,9 +1,12 @@
-# 👋 Rishabh
+# Rishabh
 
-Class 12 student building systems while preparing for JEE. Currently working on StudyFlow — an AI-powered study system for JEE, NEET, and Boards: https://studyloopai.netlify.app/
+Building systems while preparing for JEE 🚀
 
-I’m learning React, Firebase, and AI integration, and trying to build tools that solve real problems instead of just practicing code.
+Working on StudyFlow — AI-powered study system for JEE, NEET, and Boards
+https://studyloopai.netlify.app/
 
-Goal: build systems that make studying smarter, not longer.
+Learning React, Firebase, and AI integration
 
-Still learning. Still building.
+Goal: make studying smarter, not longer
+
+Building. Improving. Repeating.
