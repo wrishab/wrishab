@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey 👋 I'm Rishabh
 
-<!--
-**wrishab/wrishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Class 12 student building useful tools while preparing for JEE 🚀
 
-Here are some ideas to get you started:
+## 🚀 Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**StudyFlow**
+AI-powered study system for JEE, NEET, and Boards
+
+🔗 https://studyloopai.netlify.app/
+
+## 🧠 What I'm learning
+
+* React & frontend systems
+* Firebase backend
+* AI integration
+
+## 🎯 Goal
+
+Build tools that actually help students improve, not just study more.
+
+---
+
+Still learning. Still building.
