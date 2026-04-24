@@ -1,4 +1,4 @@
-# Rishabh
+# Utkarsh Anand
 
 Building systems while preparing for JEE 🚀
 
